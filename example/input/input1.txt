@@ -1,3 +1,1 @@
 a:2:{i:0;a:2:{s:8:"cnt_user";a:2:{s:3:"uid";i:146;s:4:"data";a:3:{i:0;s:5:"book1";i:1;s:5:"book3";i:2;s:5:"book6";}}s:9:"cmp_users";a:3:{i:123;a:4:{i:0;s:5:"book1";i:1;s:5:"book3";i:2;s:5:"book6";i:3;s:5:"book7";}i:245;a:3:{i:0;s:5:"book1";i:1;s:5:"book2";i:2;s:5:"book6";}i:3;a:2:{i:0;s:5:"book1";i:1;s:5:"book6";}}}i:1;a:2:{s:8:"cnt_user";a:2:{s:3:"uid";i:148;s:4:"data";a:3:{i:0;s:5:"book1";i:1;s:5:"book2";i:2;s:5:"book6";}}s:9:"cmp_users";a:3:{i:1231;a:4:{i:0;s:5:"book1";i:1;s:5:"book3";i:2;s:5:"book6";i:3;s:5:"book7";}i:2452;a:4:{i:0;s:5:"book1";i:1;s:5:"book2";i:2;s:5:"book6";i:3;s:5:"book8";}i:3;a:2:{i:0;s:5:"book1";i:1;s:5:"book6";}}}}
-
-9 6 8 3 7 8
