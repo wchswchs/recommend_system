@@ -6,7 +6,7 @@ $compared_user = array();
 
 $in = fopen("php://stdin", "r");
 
-while($line = fgets($in, 4096)) {
+while($line = fgets($in, 1024000)) {
 	list($key, $num, $cmp_uid, $data) = preg_split("/\t/", trim($line), 4);
 	$results_num[$key.'_'.$cmp_uid] += $num;
 	$compared_user[$cmp_uid] = $data;
